@@ -1,16 +1,11 @@
 ## Welcome to linqi_jiang blog
-你好欢迎来到我的博客
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
+# hello world ！
+## 你好我是蒋霖琪
+### 
 - Bulleted
 - List
 
