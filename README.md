@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to linqi_jiang blog
 
 You can use the [editor on GitHub](https://github.com/lattyjiang/lattyjiang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
