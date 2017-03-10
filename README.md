@@ -6,12 +6,9 @@
 # hello world ！
 ## 你好我是蒋霖琪
 
-- 明天要去千岛湖了很开心
-- 最近心情不好很复杂，去散心啦！
-
-1. 可以在路上看小说
-2. 可以在颠簸的撤离睡觉时最舒服的！
-
+- 缪语说他是傻逼
+- 我觉得他说得对
+1. 哈哈哈哈哈
  `so good luck with me` 
 
  ![Image](http://b11.photo.store.qq.com/psb?/V11RZyRj2iaBOx/89IotSWybgkx27MDcTwsAZVNcqkiJAcOJ4eXRNxfyqw!/b/dAsAAAAAAAAA&bo=gAJgAwAAAAAFB8U!&rf=viewer_4)
